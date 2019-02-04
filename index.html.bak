@@ -1,8 +1,13 @@
 <html>
-	<head></head>
+	<head>
+		<title>git 소개</title>
+	</head>
 	<body>
 		<header>
 			<h1>Git</h1>
 		</header>
+		<ul>
+			<li>git이란 무엇인가</li>
+		</ul>
 	</body>
 </html>
